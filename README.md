@@ -1,5 +1,9 @@
 # RAILD: Towards Leveraging Relation Features for Inductive Link Prediction In Knowledge Graphs
 
+Implements the model described in the paper: [**RAILD: Towards Leveraging Relation Features for Inductive Link
+Prediction In Knowledge Graphs**](https://dl.acm.org/doi/fullHtml/10.1145/3579051.3579066) 
+
+
 ![Logo](RAILD.jpg)
 
 
